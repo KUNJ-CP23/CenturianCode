@@ -1,4 +1,4 @@
-//WAP to find a sum of even number into 1D array. 
+//1. WAP to find a sum of even number into 1D array. 
 //D-3
 
 import java.util.*;
